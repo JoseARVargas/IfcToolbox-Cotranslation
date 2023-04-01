@@ -15,11 +15,11 @@
       "ItemCard_ResetSelectionButton.Text": "Reset selection"
     },
     "Nodes": {
-      "CollapseAllFlyout.Text": "Collapse All",
-      "DoubleList_Confirm.Text": "Confirm",
-      "DragDrop_Add": "Add",
-      "DragDrop_Remove": "Remove",
-      "SelecteAllFlyout.Text": "Selecte All",
+      "CollapseAllFlyout.Text": "Recolher Todos",
+      "DoubleList_Confirm.Text": "Confirmar",
+      "DragDrop_Add": "Adicionar",
+      "DragDrop_Remove": "Remover",
+      "SelecteAllFlyout.Text": "Selecionar Todos",
       "UnselecteAllFlyout.Text": "Unselecte All"
     },
     "Notice": {
