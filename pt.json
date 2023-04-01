@@ -1,17 +1,17 @@
 ﻿{
   "General": {
     "File": {
-      "Input_AddButton.Text": "Add File",
-      "Input_ClearButton.Text": "Clear All",
-      "Input_NoFolderSelected": "No folder selected",
-      "Input_NoFolderSelectedNotice": "Please choose the output folder.",
-      "Input_OnFileDragOver": "Import file",
-      "Input_PlaceHolder.Text": "Choose files or Drop files here",
-      "Input_SelectFolderButton.Text": "Select folder"
+      "Input_AddButton.Text": "Adicionar Arquivo",
+      "Input_ClearButton.Text": "Limpar Tudo",
+      "Input_NoFolderSelected": "Nenhum diretório selecionado",
+      "Input_NoFolderSelectedNotice": "Escolha um diretório de destino.",
+      "Input_OnFileDragOver": "Importar arquivo,
+      "Input_PlaceHolder.Text": "Escolha os arquivos ou arraste e solte aqui",
+      "Input_SelectFolderButton.Text": "Selecionar diretório"
     },
     "Form": {
-      "Form_DefaultButton.Text": "Restore to default",
-      "Form_RememberCheckBox.Content": "Remember the current options",
+      "Form_DefaultButton.Text": "Restaurar to default",
+      "Form_RememberCheckBox.Content": "Salvar as opções atuais",
       "ItemCard_ResetSelectionButton.Text": "Reset selection"
     },
     "Nodes": {
